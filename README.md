@@ -1,20 +1,31 @@
-# VOID.rpc
+<div align="center">
+  <!-- Сюда подтянется твой логотип. Просто закинь файл logo.png в ту же папку на GitHub -->
+  <img src="logo.png" alt="VOID.rpc Logo" width="150">
+  
+  <h1>VOID.rpc</h1>
+  <p><b>Удобный и стильный менеджер Discord Rich Presence</b></p>
 
-Description
-VOID.rpc is a powerful Discord Rich Presence (RPC) manager designed for full customization of your activity status. It provides a sleek, user-friendly interface to control your Discord presence, including custom Application IDs, status text, and activity timers.
+  <!-- Прикольные кнопки (бейджики) -->
+  <img src="https://img.shields.io/badge/version-1.1-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/python-3.10+-yellow.svg" alt="Python">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build">
+</div>
 
-Key Features
-Dynamic Customization: Easily modify Application IDs, status text, and activity timers on the fly.
+---
 
-Startup Integration: Built-in auto-start functionality to launch the application with Windows.
+**VOID.rpc** — это удобный инструмент для управления статусом Discord (Rich Presence). Быстро, просто и без лишнего геморроя.
 
-Modern UI: A dark-themed, minimalist interface built with CustomTkinter, with multi-language support (RU/EN).
+## 📥 Как скачать (Релизы)
+Тебе не нужно собирать код самому. Просто скачай готовый `.exe` файл и пользуйся:
+👉 **[Скачать последнюю версию VOID.rpc](https://github.com/Mheamy/ТВОЙ_РЕПОЗИТОРИЙ/releases/latest)**
 
-Portable Design: Developed for efficiency and ease of use.
+## 🚀 Что умеет:
+*   **Гибкая настройка:** Меняй ID приложения, текст и таймеры под свои задачи.
+*   **Автозапуск:** Программа сама прописывается в систему и стартует вместе с Windows.
+*   **Минимализм:** Понятный интерфейс на `CustomTkinter` с переключением языков (RU/EN).
+*   **Портативность:** Никаких лишних процессов, всё работает как часы.
 
-Roadmap (TODO)
-[ ] Presets: Implement a profile system for rapid switching between different activities.
-
-[ ] Logging: Improve error handling and internal logs to diagnose API issues.
-
-[ ] Automation: Add context-aware status updates triggered by running processes.
+## 🛠 TODO (Планы):
+- [ ] Добавить систему профилей (пресетов) для быстрого переключения.
+- [ ] Оптимизировать логи, чтобы видеть ошибки API в моменте.
+- [ ] Настроить автоматическую смену статуса при запуске определенных программ.
