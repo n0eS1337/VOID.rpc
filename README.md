@@ -16,7 +16,7 @@
 
 ## 📥 Скачать готовый софт (Релизы)
 Тебе не нужно устанавливать Python или собирать код самому. Просто скачай готовый автономный `.exe` файл:
-👉 **[Скачать VOID.rpc v1.2](https://github.com/n0eS1337/VOID.rpc/releases)**
+👉 **[Скачать VOID.rpc v1.2](https://github.com/n0eS1337/VOID.rpc/releases/tag/VOID.rpc.1.2)**
 
 ---
 
