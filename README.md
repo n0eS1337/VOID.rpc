@@ -4,7 +4,7 @@
   <h1>VOID.rpc | SYSTEM</h1>
   <p><b>Ультимативный, автономный и стильный менеджер кастомного Discord Rich Presence</b></p>
 
-  <img src="https://img.shields.io/badge/version-1.2-ED4245.svg?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/version-1.4.fixv2-ED4245.svg?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/python-3.14-yellow.svg?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/platform-Windows-blue.svg?style=for-the-badge&logo=windows" alt="Platform">
   <img src="https://img.shields.io/badge/UI-CustomTkinter-black.svg?style=for-the-badge" alt="UI">
