@@ -2,7 +2,7 @@
   <img src="logo.png" alt="VOID.rpc Logo" width="150" style="border-radius: 10px;">
   
 <pre style="font-family: monospace; font-weight: bold; line-height: 100%;">
- <span style="color: #FF0000;">▌</span> <span style="color: #FF8C00;">▐·</span>      <span style="color: #111111;">▪</span>  <span style="color: #FF0000;">·▄▄▄▄</span>     <span style="color: #FF8C00;">▄▄▄</span>   <span style="color: #FF8C00;">▄▄▄·</span> <span style="color: #FF0000;">▄▄·</span> 
+<span style="color: #FF0000;"> ▌ ▐·</span>      <span style="color: #111111;">▪</span>  <span style="color: #FF8C00;">·▄▄▄▄</span>     <span style="color: #FF0000;">▄▄▄</span>   <span style="color: #FF8C00;">▄▄▄·</span> <span style="color: #FF0000;">▄▄·</span> 
 <span style="color: #FF0000;">▪█·█▌▪</span>     <span style="color: #FF8C00;">██</span> <span style="color: #FF0000;">██▪ ██</span>    <span style="color: #FF8C00;">▀▄ █·</span><span style="color: #FF0000;">▐█ ▄█</span><span style="color: #FF8C00;">▐█ ▌▪</span>
 <span style="color: #FF0000;">▐█▐█•</span> <span style="color: #FF8C00;">▄█▀▄</span> <span style="color: #FF0000;">▐█·</span><span style="color: #FF8C00;">▐█·</span> <span style="color: #FF0000;">▐█▌</span>   <span style="color: #FF8C00;">▐▀▀▄</span>  <span style="color: #FF0000;">██▀·</span><span style="color: #FF8C00;">██ ▄▄</span>
  <span style="color: #FF0000;">███</span> <span style="color: #FF8C00;">▐█▌.▐▌</span><span style="color: #FF0000;">▐█▌</span><span style="color: #FF8C00;">██.</span> <span style="color: #FF0000;">██</span>    <span style="color: #FF8C00;">▐█•█▌</span><span style="color: #FF0000;">▐█▪·•</span><span style="color: #FF8C00;">▐███▌</span>
