@@ -12,11 +12,11 @@
 
   <p><b>Ультимативный, автономный и стильный менеджер кастомного Discord Rich Presence</b></p>
 
-  <img src="[https://img.shields.io/badge/version-1.4.fixv2-ED4245.svg?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/version-1.4.fixv2-ED4245.svg?style=for-the-badge&logo=git&logoColor=white)" alt="Version">
-  <img src="[https://img.shields.io/badge/python-3.14-3776AB.svg?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/python-3.14-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)" alt="Python">
-  <img src="[https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)" alt="Platform">
-  <img src="[https://img.shields.io/badge/UI-CustomTkinter-181818.svg?style=for-the-badge&logo=qt&logoColor=4EAA25](https://img.shields.io/badge/UI-CustomTkinter-181818.svg?style=for-the-badge&logo=qt&logoColor=4EAA25)" alt="UI">
-  <img src="[https://img.shields.io/github/downloads/n0eS1337/VOID.rpc/total?style=for-the-badge&color=2ea44f&logo=github](https://img.shields.io/github/downloads/n0eS1337/VOID.rpc/total?style=for-the-badge&color=2ea44f&logo=github)" alt="Downloads">
+  <img src="https://img.shields.io/badge/version-1.4.fixv2-ED4245.svg?style=for-the-badge&logo=git&logoColor=white" alt="Version">
+  <img src="https://img.shields.io/badge/python-3.14-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
+  <img src="https://img.shields.io/badge/UI-CustomTkinter-181818.svg?style=for-the-badge&logo=qt&logoColor=4EAA25" alt="UI">
+  <img src="https://img.shields.io/github/downloads/n0eS1337/VOID.rpc/total?style=for-the-badge&color=2ea44f&logo=github" alt="Downloads">
 </div>
 
 ---
