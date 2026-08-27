@@ -4,13 +4,16 @@
   <h1>VOID.rpc | SYSTEM</h1>
   <p><b>Ультимативный, автономный и стильный менеджер кастомного Discord Rich Presence</b></p>
 
-<div align="center">
   <img src="https://img.shields.io/badge/version-1.4.fixv2-ED4245.svg?style=for-the-badge&logo=git&logoColor=white" alt="Version">
   <img src="https://img.shields.io/badge/python-3.14-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/UI-CustomTkinter-181818.svg?style=for-the-badge&logo=qt&logoColor=4EAA25" alt="UI">
   <img src="https://img.shields.io/github/downloads/n0eS1337/VOID.rpc/total?style=for-the-badge&color=2ea44f&logo=github" alt="Downloads">
-</div>
+</div> <!-- Сюда добавили закрывающий тег, и центрирование дальше не пойдет -->
+
+---
+
+**VOID.rpc** — это мощный и легкий инструмент для полной кастомизации твоего статуса (Rich Presence) в Discord. Никакого лишнего геморроя, консольных окон и сложных конфигов — всё управляется через красивый графический интерфейс.
 
 ---
 
