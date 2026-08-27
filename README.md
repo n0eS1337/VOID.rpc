@@ -1,6 +1,6 @@
 <div align="center">
   <img src="logo.png" alt="VOID.rpc Logo" width="150" style="border-radius: 10px;">
-
+  
 <pre style="font-family: monospace; font-weight: bold; line-height: 100%;">
 <span style="color: #FF0000;">▓</span>   <span style="color: #FF0000;">▓</span>  <span style="color: #FF8C00;">▓▓▓</span>  <span style="color: #FF8C00;">▓▓▓</span> <span style="color: #FF0000;">▓▓▓▓</span>     <span style="color: #FF0000;">▓▓▓▓</span>  <span style="color: #FF8C00;">▓▓▓▓</span>   <span style="color: #FF8C00;">▓▓▓</span>   
 <span style="color: #FF0000;">▓▓</span>  <span style="color: #FF0000;">▓▓▓</span> <span style="color: #FF8C00;">▓▓▓</span>  <span style="color: #FF8C00;">▓▓▓▓▓▓▓▓</span>     <span style="color: #FF0000;">▓▓▓▓▓</span> <span style="color: #FF8C00;">▓▓▓▓▓</span> <span style="color: #FF0000;">▓</span> <span style="color: #FF8C00;">▓▓▓</span>  
@@ -21,7 +21,7 @@
 
 ---
 
-**<img src="logo.png" width="24" style="vertical-align: middle;" alt="logo">VOID.rpc** — это мощный и легкий инструмент для полной кастомизации твоего статуса (Rich Presence) в Discord. Никакого лишнего геморроя, консольных окон и сложных конфигов — всё управляется через красивый графический интерфейс.
+<img src="logo.png" width="24" style="vertical-align: middle;" alt="logo">**VOID.rpc** — это мощный и легкий инструмент для полной кастомизации твоего статуса (Rich Presence) в Discord. Никакого лишнего геморроя, консольных окон и сложных конфигов — всё управляется через красивый графический интерфейс.
 
 ## Скачать готовый софт (Релизы)
 Тебе не нужно устанавливать Python или собирать код самому. Просто скачай готовый автономный `.exe` файл:
