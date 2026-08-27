@@ -9,7 +9,7 @@
 <span style="color: #FF0000;">. ▀</span>   <span style="color: #FF8C00;">▀█▄▀▪</span><span style="color: #FF0000;">▀▀▀▀▀▀▀▀•</span>  <span style="color: #FF8C00;">▀ .▀</span>  <span style="color: #FF0000;">▀.▀</span>   <span style="color: #FF8C00;">·▀▀▀</span> 
 </pre>
 
-<img src="logo.png" width="24" style="vertical-align: middle;" alt="logo"><p><b>Ультимативный, автономный и стильный менеджер кастомного Discord Rich Presence</b></p><img src="logo.png" width="24" style="vertical-align: middle;" alt="logo">
+<p><b>Ультимативный, автономный и стильный менеджер кастомного Discord Rich Presence</b></p>
 
   <img src="https://img.shields.io/badge/version-1.4.fixv2-ED4245.svg?style=for-the-badge&logo=git&logoColor=white" alt="Version">
   <img src="https://img.shields.io/badge/python-3.14-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
