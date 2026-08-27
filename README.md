@@ -2,14 +2,14 @@
   <img src="logo.png" alt="VOID.rpc Logo" width="150" style="border-radius: 10px;">
   
 <pre style="font-family: monospace; font-weight: bold; line-height: 100%;">
-<span style="color: #FF0000;"> ▌ ▐·</span>      <span style="color: #111111;">▪</span>  <span style="color: #FF8C00;">·▄▄▄▄</span>     <span style="color: #FF0000;">▄▄▄</span>   <span style="color: #FF8C00;">▄▄▄·</span> <span style="color: #FF0000;">▄▄·</span> 
-<span style="color: #FF0000;">▪█·█▌▪</span>     <span style="color: #FF8C00;">██</span> <span style="color: #FF0000;">██▪ ██</span>    <span style="color: #FF8C00;">▀▄ █·</span><span style="color: #FF0000;">▐█ ▄█</span><span style="color: #FF8C00;">▐█ ▌▪</span>
-<span style="color: #FF0000;">▐█▐█•</span> <span style="color: #FF8C00;">▄█▀▄</span> <span style="color: #FF0000;">▐█·</span><span style="color: #FF8C00;">▐█·</span> <span style="color: #FF0000;">▐█▌</span>   <span style="color: #FF8C00;">▐▀▀▄</span>  <span style="color: #FF0000;">██▀·</span><span style="color: #FF8C00;">██ ▄▄</span>
- <span style="color: #FF0000;">███</span> <span style="color: #FF8C00;">▐█▌.▐▌</span><span style="color: #FF0000;">▐█▌</span><span style="color: #FF8C00;">██.</span> <span style="color: #FF0000;">██</span>    <span style="color: #FF8C00;">▐█•█▌</span><span style="color: #FF0000;">▐█▪·•</span><span style="color: #FF8C00;">▐███▌</span>
-<span style="color: #FF0000;">. ▀</span>   <span style="color: #FF8C00;">▀█▄▀▪</span><span style="color: #FF0000;">▀▀▀▀▀▀▀▀•</span>  <span style="color: #FF8C00;">▀ .▀</span>  <span style="color: #FF0000;">▀.▀</span>   <span style="color: #FF8C00;">·▀▀▀</span> 
+<span style="color: #FF0000;"> ▌</span> <span style="color: #FF8C00;">▐·</span>      <span style="color: #111111;">▪</span>  <span style="color: #FF0000;">·▄▄▄▄</span>     <span style="color: #FF8C00;">▄▄▄</span>   <span style="color: #FF8C00;">▄▄▄·</span> <span style="color: #FF0000;">▄▄·</span> 
+<span style="color: #FF0000;">▪█·█▌▪</span>     <span style="color: #FF8C00;">██</span> <span style="color: #FF0000;">██▪</span> <span style="color: #FF8C00;">██</span>    <span style="color: #FF8C00;">▀▄</span> <span style="color: #FF0000;">█·</span><span style="color: #FF8C00;">▐█</span> <span style="color: #FF0000;">▄█</span><span style="color: #FF8C00;">▐█</span> <span style="color: #FF8C00;">▌▪</span>
+<span style="color: #FF0000;">▐█▐█•</span> <span style="color: #FF8C00;">▄█▀▄</span> <span style="color: #FF0000;">▐█·</span><span style="color: #FF8C00;">▐█·</span> <span style="color: #FF0000;">▐█▌</span>   <span style="color: #FF8C00;">▐▀▀▄</span>  <span style="color: #FF0000;">██▀·</span><span style="color: #FF8C00;">██</span> <span style="color: #FF8C00;">▄▄</span>
+ <span style="color: #FF0000;">███</span> <span style="color: #FF8C00;">▐█▌.</span><span style="color: #FF8C00;">▐▌</span><span style="color: #FF0000;">▐█▌</span><span style="color: #FF8C00;">██.</span> <span style="color: #FF0000;">██</span>    <span style="color: #FF8C00;">▐█•</span><span style="color: #FF0000;">█▌</span><span style="color: #FF0000;">▐█▪·•</span><span style="color: #FF8C00;">▐███▌</span>
+<span style="color: #FF0000;">. ▀</span>   <span style="color: #FF8C00;">▀█▄▀▪</span><span style="color: #FF0000;">▀▀▀▀▀▀▀▀•</span>  <span style="color: #FF8C00;">▀</span> <span style="color: #FF0000;">.▀</span>  <span style="color: #FF0000;">▀.▀</span>   <span style="color: #FF8C00;">·▀▀▀</span> 
 </pre>
 
-<p><b>Ультимативный, автономный и стильный менеджер кастомного Discord Rich Presence</b></p>
+  <p><b>Ультимативный, автономный и стильный менеджер кастомного Discord Rich Presence</b></p>
 
   <img src="https://img.shields.io/badge/version-1.4.fixv2-ED4245.svg?style=for-the-badge&logo=git&logoColor=white" alt="Version">
   <img src="https://img.shields.io/badge/python-3.14-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
