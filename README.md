@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/badge/python-3.14-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/UI-CustomTkinter-181818.svg?style=for-the-badge&logo=qt&logoColor=4EAA25" alt="UI">
-  <img src="https://img.shields.io/github/repo-size/n0eS1337/VOID.rpc?style=for-the-badge&color=2ea44f&logo=github" alt="Repo Size">
+  <img src="https://img.shields.io/github/commit-activity/m/n0eS1337/VOID.rpc?style=for-the-badge&color=2ea44f&logo=github" alt="Commit Activity">
+
 </div>
 
 ---
