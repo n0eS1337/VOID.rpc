@@ -229,7 +229,7 @@ class UltimateRPCMenu(ctk.CTk):
             with open(file_path, "rb") as f:
                 response = requests.post(
                     "https://api.imgbb.com/1/upload",
-                    params={"key": ""}, 
+                    params={"key": "6ac4e142b35147753eb20802e644a0a6"}, 
                     files={"image": f}
                 )
             res_json = response.json()
