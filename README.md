@@ -11,7 +11,7 @@
 
   <p><b>Ультимативный, автономный и стильный менеджер кастомного Discord Rich Presence</b></p>
 
-  <img src="https://img.shields.io/badge/version-1.4.fixv4-ED4245.svg?style=for-the-badge&alt=logo&logoColor=white" alt="Version">
+  <img src="https://img.shields.io/badge/version-1.4.fixv4-ED4245.svg?style=for-the-badge&logo=git&logoColor=white" alt="Version">
   <img src="https://img.shields.io/badge/python-3.14-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
   <img src="https://img.shields.io/badge/UI-CustomTkinter-181818.svg?style=for-the-badge&logo=qt&logoColor=4EAA25" alt="UI">
