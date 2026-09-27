@@ -41,23 +41,22 @@ from PIL import Image, ImageDraw
 from pystray import MenuItem as item
 from customtkinter import filedialog
 
-# 1. Жестко фиксируем папку, где лежит .exe (или скрипт)
 if getattr(sys, "frozen", False):
     APP_DIR = os.path.dirname(sys.executable)
-    # _MEIPASS используется ТОЛЬКО для чтения встроенных ресурсов (картинок)
+    
     RESOURCE_DIR = getattr(sys, "_MEIPASS", APP_DIR)
 else:
     script_path = __file__ if "__file__" in globals() else sys.argv[0]
     APP_DIR = os.path.dirname(os.path.abspath(script_path))
     RESOURCE_DIR = APP_DIR
 
-# 2. Меняем рабочую директорию ОС на папку с .exe
+
 try:
     os.chdir(APP_DIR)
 except Exception:
     pass
 
-# 3. Рабочая папка для данных (конфиги, логи, пресеты) рядом с .exe или скриптом
+
 CORE_DIR = os.path.join(APP_DIR, "core") if getattr(sys, "frozen", False) else APP_DIR
 CUSTOM_DIR = os.path.join(APP_DIR, "custom")
 
@@ -66,7 +65,7 @@ CONFIG_BACKUP_DIR = os.path.join(CORE_DIR, "config_backups")
 LOG_DIR = os.path.join(CORE_DIR, "logs")
 PRESET_DIR = os.path.join(CORE_DIR, "presets")
 
-# 4. Для картинок делаем умный поиск (сначала рядом с .exe, если нет — внутри _MEIPASS)
+
 external_logo_png = os.path.join(CORE_DIR, "logo.png")
 external_logo_ico = os.path.join(CORE_DIR, "logo.ico")
 
@@ -89,7 +88,7 @@ def resolve_resource_paths():
     os.makedirs(CONFIG_BACKUP_DIR, exist_ok=True)
     return APP_DIR
 
-# Автоматически вызываем при импорте
+
 resolve_resource_paths()
 
 
